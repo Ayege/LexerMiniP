@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1646266867 source:c:\users\ayesh\desktop\p3\proyectointegradori\proyectointegradori\lex.yy.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<io.h>
+	<stdlib.h>
+	"Tokens.h"
+	<stdlib.h>
+
+1646265136 c:\users\ayesh\desktop\p3\proyectointegradori\proyectointegradori\tokens.h
+	<stdio.h>
+
